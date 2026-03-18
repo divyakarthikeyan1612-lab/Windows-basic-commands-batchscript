@@ -72,7 +72,7 @@ Copy the file hello.txt into the file hello1.txt
 Remove the file hello1.txt
 
 
-![mkdir](screenshots/del-hello.png)
+![mkdir](screenshots/delete.png)
 
 
 
