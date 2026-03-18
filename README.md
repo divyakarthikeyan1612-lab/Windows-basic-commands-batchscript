@@ -22,40 +22,89 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
+
 Create a directory named "my-folder"
+
+
 ![mkdir](screenshots/mkdir.png)
 
+
+
 ## COMMAND AND OUTPUT
+
 Remove the directory "my-folder"
+
+
 ![mkdir](screenshots/rmdir.png)
 
+
+
 ## COMMAND AND OUTPUT
+
 Create the file Rose.txt
+
+
 ![mkdir](screenshots/rose.txt.png)
 
+
+
 ## COMMAND AND OUTPUT
+
 Create the file hello.txt using echo and redirection
-![mkdir](screenshots/mkdir.png)
+
+
+![mkdir](screenshots/hello-world.png)
+
+
 
 ## COMMAND AND OUTPUT
+
+
 Copy the file hello.txt into the file hello1.txt
-![mkdir](screenshots/mkdir.png)
+
+
+![mkdir](screenshots/filecopied.png)
+
+
 
 ## COMMAND AND OUTPUT
+
 Remove the file hello1.txt
-![mkdir](screenshots/mkdir.png)
+
+
+![mkdir](screenshots/del-hello.png)
+
+
 
 ## COMMAND AND OUTPUT
+
+
 List out the file hello1.txt in the current directory
+
+
 ![mkdir](screenshots/list-hellotxt.png)
 
-## COMMAND AND OUTPUT
-List out all the associated file extensions 
-![mkdir](screenshots/file-extentions.png)
+
 
 ## COMMAND AND OUTPUT
+
+
+List out all the associated file extensions
+
+
+![mkdir](screenshots/file-extensions.png)
+
+
+
+## COMMAND AND OUTPUT
+
+
 Compare the file hello.txt and rose.txt
+
+
 ![mkdir](screenshots/compare.png)
+
+
 
 ## COMMAND AND OUTPUT
 
@@ -68,7 +117,11 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+
+
 ![mkdir](screenshots/bat1.png)
+
+
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -82,7 +135,11 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+
+
 ![mkdir](screenshots/bat2.png)
+
+
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -92,7 +149,11 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+
+
 ![mkdir](screenshots/bat3.png)
+
+
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -105,7 +166,11 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 
+
+
 ![mkdir](screenshots/bat4.png)
+
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
@@ -115,7 +180,11 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+
+
 ![mkdir](screenshots/bat5.png)
+
+
 
 # RESULT:
 The commands/batch files are executed successfully.
