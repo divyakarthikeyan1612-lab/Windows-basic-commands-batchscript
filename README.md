@@ -119,7 +119,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 
-![mkdir](screenshots/bat1.png)
+![mkdir](screenshots/bat1.png.png)
 
 
 
